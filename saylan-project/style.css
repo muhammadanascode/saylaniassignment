@@ -1,0 +1,194 @@
+body {
+    background-color: rgb(53, 53, 53);
+}
+
+.navBar {
+    display: flex;
+    list-style: none;
+    margin-left: 200px;
+    margin-top: 20px;
+    color: aliceblue;
+}
+
+li {
+    margin-left: 50px;
+}
+
+.name {
+    margin-top: 0px;
+    margin-right: 70px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.circle {
+    width: 20px;
+    height: 20px;
+    background-color: yellow;
+    border-radius: 50px;
+    margin-right: 10px;
+}
+
+.text1 {
+    color: rgb(133, 133, 133);
+    margin-left: 80px;
+    margin-top: 60px;
+    font-size: 50px;
+}
+
+.text2 {
+    color: aliceblue;
+    margin-left: 80px;
+    font-size: 60px;
+    letter-spacing: 3px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.line {
+    width: 200px;
+    height: 3px;
+    background-color: yellow;
+    margin-left: 80px;
+    border-radius: 10px;
+}
+
+.text {
+    width: 200px;
+    color: rgb(133, 133, 133);
+    margin-left: 80px;
+    justify-content: end;
+}
+
+.flex {
+    display: flex;
+    margin-left: 100px;
+}
+
+.block{
+    display: block;
+    width: 20%;
+    height: 50px;
+    color: white;
+    margin-left: 5%;
+
+}
+
+.text3 {
+    color: rgb(141, 141, 141);
+    margin-top: 60px;
+    font-size: 20px;
+}
+.show{
+    color: yellow;
+}
+.block1{
+    display: block;
+    width: 200px;
+}
+.circle1{
+    width: 500px;
+    height: 450px;
+    margin-top: 40px;
+    background-color: rgb(34, 34, 34);
+    border-radius: 50%;
+    opacity: 0.9;
+    margin-left: 200px;
+}
+.mainBox{
+    width: 50%;
+    height: 80px;
+    margin-left: 25%;
+    background-color: rgb(44, 44, 44);
+    margin-top: 10px;
+    box-shadow: 2px 2px 5px 5px rgb(54, 54, 54);
+    align-items: center;
+    display: flex;
+}
+.nestedBox{
+    height: 50px;
+    width: 120px;
+    background-color: rgb(31, 31, 31);
+    margin: auto;
+    align-items: center;
+}
+.image{
+    width: 80px;
+    height: 30px;
+    align-items: center;
+    margin-left: 20px;
+    margin-top: 6px;
+}
+.endBox{
+    width: 100%;
+    height: 460px;
+    background-color: rgb(31, 31, 31);
+}
+.endFlex{
+    display: flex;
+}
+.endBlock1{
+    margin-top: 20px;
+    width: 300px;
+    height: 300px;
+    margin-left: 10%;
+}
+.what{
+    color: white;
+    font-size: 30px;
+}
+.It{
+    color:rgb(104, 104, 104) ;
+}
+.no{
+    font-size: 25px;
+    color: yellow;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Project{
+    color:rgb(104, 104, 104) ;
+}
+.endFlexNested{
+    display: flex;
+}
+.endBlockNested2{
+    margin-left: 30px;
+}
+.endBlock2{
+    display: block;
+    margin-left: 40%;
+    margin-top: 20px;
+    width: 300px;
+    height: 300px;
+    align-items: center;
+}
+.ui{
+  color: white;
+  font-size: 20px;
+}
+.uidown{
+    color:rgb(104, 104, 104) ;
+}
+.endBlock2Flex1{
+    display: flex;
+    margin: auto;
+}
+.uiimg{
+    width: 60px;
+    height: 30px;
+    margin-right: 5px;
+    margin-top: 22px;
+}
+.endBlock2Flex2{
+    display: flex;
+}
+.endBlock2Flex3{
+    display: flex;
+}
+.line1{
+    width: 80%;
+    height: 1px;
+    background-color: gray;
+}
+#manimg{
+    width: 400px;
+    height: 420px;
+}
